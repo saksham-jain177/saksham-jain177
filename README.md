@@ -3,7 +3,7 @@ I'm Saksham, a Third Year CSE Student and aspiring Software Developer. Currently
 
  •🔭 Currently Working On **Open Source Projects** 
 
- •🌱 Currently Learning **New Technologies**
+ •🌱 Currently Learning **MERN**
 
  •💬 Ask Me About **Python and its Frameworks**
 
