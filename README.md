@@ -39,6 +39,7 @@ I'm Saksham, a Fourth Year Computer Science student with a deep passion for Arti
   </a>
 </p>
 
+
 ### 📈 Projects
 - **[Automated Data Analysis and Visualization](#)**: Streamlit app for automated data analysis, visualization, and machine learning model training with customizable data handling and reporting.
 - **[Intrusion Detection System](#)**: Dash app for visualizing and analyzing Intrusion Detection System results with performance metrics and final inference insights.
@@ -51,3 +52,6 @@ I'm Saksham, a Fourth Year Computer Science student with a deep passion for Arti
 - **Kaggle**: [saksham177](https://www.kaggle.com/saksham177)
 
 Feel free to reach out if you’re interested in discussing the latest in AI, ML, and data science or collaborating on groundbreaking projects. Let's push the boundaries of technology together! 🚀
+
+
+[![saksham-jain177's GitHub | Stats](https://stats.quira.sh/saksham-jain177/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=saksham-jain177) [![saksham-jain177's GitHub | Dependencies](https://stats.quira.sh/saksham-jain177/dependencies?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=saksham-jain177) 
