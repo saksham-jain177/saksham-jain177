@@ -41,7 +41,7 @@ I'm Saksham, a Fourth Year Computer Science student with a deep passion for Arti
 
 
 ### 📈 Projects
-- **[Automated Data Analysis and Visualization](#)**: Streamlit app for automated data analysis, visualization, and machine learning model training with customizable data handling and reporting.
+- **[Automated Data Analysis and Visualization](https://automated-data-analysis-visualization.streamlit.app/)**: Streamlit app for automated data analysis, visualization, and machine learning model training with customizable data handling and reporting.
 - **[Intrusion Detection System](#)**: Dash app for visualizing and analyzing Intrusion Detection System results with performance metrics and final inference insights.
 - **[Real-Time Trading System](#)**: Real-time trading system for fetching, preprocessing, and normalizing stock data using Alpha Vantage API and Python.
 - **[Real-Time Hand Gesture Control System](#)**: Real-time hand gesture control system using Mediapipe and OpenCV to move the cursor and perform actions based on hand position.
