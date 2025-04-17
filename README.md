@@ -55,4 +55,4 @@ Feel free to reach out if you’re interested in discussing the latest in AI, ML
 
 ![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham-jain177&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=20)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-jain177&layout=compact&theme=tokyonight&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saksham-jain177&theme=tokyonight&hide_border=true&border_radius=20)](https://git.io/streak-stats)
