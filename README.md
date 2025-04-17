@@ -52,3 +52,5 @@ I'm Saksham, a Fourth Year Computer Science student with a deep passion for Arti
 - **Kaggle**: [saksham177](https://www.kaggle.com/saksham177)
 
 Feel free to reach out if you’re interested in discussing the latest in AI, ML, and data science or collaborating on groundbreaking projects. Let's push the boundaries of technology together! 🚀
+
+![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham-jain177&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=20)
