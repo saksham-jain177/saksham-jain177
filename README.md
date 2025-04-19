@@ -1,56 +1,90 @@
-## Hi 👋 there!
+<h1 align="center">Hi there 👋, I'm Saksham Jain</h1>
+<h3 align="center">Turning passion into code, one line at a time</h3>
 
-I'm Saksham, a Fourth Year Computer Science student with a deep passion for Artificial Intelligence, Machine Learning, Data Science, and Deep Learning. Currently, I'm diving into the exciting world of AI and actively contributing to innovative open-source projects. My journey is all about exploring the latest advancements and mastering cutting-edge technologies. Feel free to connect with me if you share a love for these fields!
-
-### 🔭 Currently Working On
-- **Open Source AI Projects**: Contributing to projects that push the boundaries of artificial intelligence and machine learning.
-
-### 🌱 Currently Learning
-- **Advanced Deep Learning Techniques**: Exploring state-of-the-art methods in neural networks and natural language processing (NLP).
-- **AI Frameworks and Tools**: Enhancing skills in TensorFlow, PyTorch, and Hugging Face Transformers.
-
-### 💬 Ask Me About
-- **AI & Machine Learning**: From fundamental concepts to advanced applications.
-- **Data Science & Analytics**: Techniques and tools for data manipulation and visualization.
-- **Deep Learning Architectures**: CNNs, RNNs, Transformers, and more.
-
-### 🚀 Tech Stack
 <p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="40" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: box-shadow 0.3s;"/>
+  <!-- GitHub Profile Views -->
+  <a href="https://github.com/saksham-jain177">
+    <img src="https://komarev.com/ghpvc/?username=saksham-jain177&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+         alt="Profile Views" />
+  </a>    
+  <a href="https://www.linkedin.com/in/saksham-j-95a206225/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&labelColor=gray" alt="LinkedIn"/>
   </a>
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: box-shadow 0.3s;"/>
+  <a href="https://www.kaggle.com/saksham177" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/View-Kaggle-20BEFF?style=for-the-badge&labelColor=gray" alt="Kaggle"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" height="40" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: box-shadow 0.3s;"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging%20Face-6D6E76?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face" height="40" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: box-shadow 0.3s;"/>
-  </a>
-  <a href="https://langchain.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LangChain-0C4B8E?style=flat&logo=langchain&logoColor=white" alt="LangChain" height="40" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: box-shadow 0.3s;"/>
-  </a>
-  <a href="https://www.sql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL" height="40" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: box-shadow 0.3s;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="40" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5); transition: box-shadow 0.3s;"/>
+  <a href="https://huggingface.co/saksham177" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Profile-HuggingFace-FFD21E?style=for-the-badge&labelColor=gray&color=FFD21E" alt="HuggingFace"/>
   </a>
 </p>
 
+---
 
-### 📈 Projects
-- **[Automated Data Analysis and Visualization](https://automated-data-analysis-visualization.streamlit.app/)**: Streamlit app for automated data analysis, visualization, and machine learning model training with customizable data handling and reporting.
-- **[Intrusion Detection System](#)**: Dash app for visualizing and analyzing Intrusion Detection System results with performance metrics and final inference insights.
-- **[Real-Time Trading System](#)**: Real-time trading system for fetching, preprocessing, and normalizing stock data using Alpha Vantage API and Python.
-- **[Real-Time Hand Gesture Control System](#)**: Real-time hand gesture control system using Mediapipe and OpenCV to move the cursor and perform actions based on hand position.
+## 👨‍💻 About Me
 
-### 📫 Connect with Me
-- **LinkedIn**: [Saksham Jain](www.linkedin.com/in/saksham-j-95a206225)
-- **GitHub**: [saksham-jain177](https://github.com/saksham-jain177)
-- **Kaggle**: [saksham177](https://www.kaggle.com/saksham177)
+I'm a final-year Computer Science student deeply passionate about Artificial Intelligence, Machine Learning, Data Science, and Deep Learning. I thrive on exploring the latest advancements and contributing to innovative open-source projects. Let's connect if you share a love for these fields!
 
-Feel free to reach out if you’re interested in discussing the latest in AI, ML, and data science or collaborating on groundbreaking projects. Let's push the boundaries of technology together! 🚀
+---
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saksham-jain177&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=20)
+## 🚀 Projects
+
+### 🔍 [AI Agent-Based Deep Research](https://github.com/saksham-jain177/AI-Agent-based-Deep-Research)
+A dual-agent system for deep research, utilizing Tavily for web crawling and OpenRouter for drafting structured summaries. Built with LangChain, LangGraph, and Streamlit. [Live Demo](https://deep-research-ai-agent.streamlit.app/)
+
+### 📝 [Task Extraction from Unstructured Text](https://github.com/saksham-jain177/task_extraction)
+An NLP pipeline designed to extract actionable tasks from unstructured text, identifying task sentences, responsible persons, and deadlines using heuristic-based methods.
+
+### 📰 [NewsSpeak: News Summarization & TTS Application](https://github.com/saksham-jain177/NewsSpeak)
+A multilingual news analysis tool that scrapes articles, performs sentiment analysis using VADER, and generates Hindi audio summaries using Streamlit and gTTS.
+
+### 📊 [Data Analysis Projects](https://github.com/saksham-jain177/Data-Analysis)
+A collection of data analysis and machine learning projects across various datasets, including Swiggy restaurant data, GeeksforGeeks video data, and Cardekho used car prices.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Python -->
+  <img src="https://api.iconify.design/simple-icons:python.svg?color=%233776AB"
+       alt="Python" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- TensorFlow -->
+  <img src="https://api.iconify.design/simple-icons:tensorflow.svg?color=%23FF6F00"
+       alt="TensorFlow" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- PyTorch -->
+  <img src="https://api.iconify.design/simple-icons:pytorch.svg?color=%23EE4C2C"
+       alt="PyTorch" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Hugging Face -->
+  <img src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23FFD21E"
+       alt="Hugging Face" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- LangChain -->
+  <img src="https://api.iconify.design/simple-icons:langchain.svg?color=%2300BFA6"
+       alt="LangChain" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- PostgreSQL -->
+  <img src="https://api.iconify.design/simple-icons:postgresql.svg?color=%234479A1"
+       alt="PostgreSQL" width="48" height="48" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- JavaScript -->
+  <img src="https://api.iconify.design/simple-icons:javascript.svg?color=%23F7DF1E"
+       alt="JavaScript" width="48" height="48" />
+</p>
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saksham-jain177&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&border_radius=20"
+       alt="GitHub Stats" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn**: [Saksham Jain](https://www.linkedin.com/in/saksham-j-95a206225/)  
+- **GitHub**: [saksham-jain177](https://github.com/saksham-jain177)  
+- **Kaggle**: [saksham177](https://www.kaggle.com/saksham177)  
+- **Hugging Face**: [saksham177](https://huggingface.co/saksham177)  
+
+Feel free to reach out if you're interested in discussing the latest in AI, ML, and data science or collaborating on groundbreaking projects. Let's push the boundaries of technology together! 🚀
