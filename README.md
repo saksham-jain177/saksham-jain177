@@ -1,30 +1,41 @@
 # Saksham Jain
 
-AI engineer building production systems. Currently exploring LLMs, RAG architectures, and full-stack applications.
+Applied AI Engineer focused on operational AI systems, retrieval workflows, agent orchestration, and context-aware tooling.
 
-## Featured Work
+Currently working on internal AI automation systems, MCP-integrated workflows, and multi-agent experimentation.
 
-**AI-Agent-based-Deep-Research**  
-Dual-agent system for automated research using web crawling and structured summarization.  
-[Live demo](https://deep-research-ai-agent.streamlit.app/) | [Code](https://github.com/saksham-jain177/AI-Agent-based-Deep-Research)
+## Projects & Experiments
 
-**Vision-Aid**  
-Full-stack computer vision platform with real-time face recognition and traffic optimization.  
-[Live demo](https://vision-aid-cyan.vercel.app/) | [Code](https://github.com/saksham-jain177/Vision-Aid)
+### AI-Agent-Based-Deep-Research
+Multi-agent research and retrieval system using contextual search, structured execution pipelines, and vector retrieval workflows.
 
-## Tech Stack
+[Repository](https://github.com/saksham-jain177/AI-Agent-based-Deep-Research)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00BFA5?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-00D9FF?style=for-the-badge&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-## Connect
+### Synthetica Cognitive Sandbox
+Experimental multi-agent simulation environment exploring persistent memory, graph-based retrieval workflows, and long-horizon context systems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saksham-jain177)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-j-95a206225/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:177sakshamjain@gmail.com)
+[Repository](https://github.com/saksham-jain177/synthetica-cognitive-sandbox)
+
+---
+
+### Chat-RAG
+Context-aware retrieval and conversational AI workflows using local and API-based inference pipelines.
+
+[Repository](https://github.com/saksham-jain177/Chat-RAG)
+
+## Core Areas
+
+- Operational AI Systems
+- Retrieval & RAG Pipelines
+- Agent Workflows
+- Workflow Automation
+- Context-Aware Tooling
+- FastAPI Backend Services
+- MCP-Integrated Systems
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/saksham-j-95a206225/
+- GitHub: https://github.com/saksham-jain177
