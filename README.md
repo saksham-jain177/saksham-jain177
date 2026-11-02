@@ -1,41 +1,38 @@
 # Saksham Jain
 
-Applied AI Engineer focused on operational AI systems, retrieval workflows, agent orchestration, and context-aware tooling.
+**Applied AI Engineer | AI Systems, Agentic Architectures & LLM Engineering**
 
-Currently working on internal AI automation systems, MCP-integrated workflows, and multi-agent experimentation.
+I build AI-powered applications and systems, with a focus on agent orchestration, LLM workflows, retrieval systems, and AI infrastructure.
 
-## Projects & Experiments
+Interested in the engineering behind intelligent systems: how models, tools, memory, and data come together to create reliable and useful applications.
 
-### AI-Agent-Based-Deep-Research
-Multi-agent research and retrieval system using contextual search, structured execution pipelines, and vector retrieval workflows.
+## Areas of Focus
 
-[Repository](https://github.com/saksham-jain177/AI-Agent-based-Deep-Research)
+- Agentic AI Systems & Multi-Agent Architectures
+- LLM Orchestration & Inference
+- Retrieval-Augmented Generation (RAG)
+- Context Engineering & Memory Systems
+- AI Automation & Tool Integration
+- Backend Engineering for AI Applications
 
----
+## Featured Projects
 
-### Synthetica Cognitive Sandbox
-Experimental multi-agent simulation environment exploring persistent memory, graph-based retrieval workflows, and long-horizon context systems.
+**[Agentic Deep Research](https://github.com/saksham-jain177/agentic-deep-research)**  
+Multi-agent research system featuring web retrieval, evidence extraction, semantic caching, source verification, and structured report generation.
 
-[Repository](https://github.com/saksham-jain177/synthetica-cognitive-sandbox)
+**[FastAPI LLM Inference](https://github.com/saksham-jain177/fastapi-llm-inference)**  
+LLM inference service exploring quantization, adaptive model routing, LoRA fine-tuning, agentic retrieval, and observability.
 
----
+**[GitBridge](https://github.com/saksham-jain177/GitBridge)**  
+MCP server providing GitHub repository search, information retrieval, and analysis capabilities to AI assistants.
 
-### Chat-RAG
-Context-aware retrieval and conversational AI workflows using local and API-based inference pipelines.
+**[Synthetica Cognitive Sandbox](https://github.com/saksham-jain177/synthetica-cognitive-sandbox)**  
+Experimental multi-agent simulation environment exploring persistent memory, graph-based context, and agent interactions.
 
-[Repository](https://github.com/saksham-jain177/Chat-RAG)
+## Technologies
 
-## Core Areas
+Python · FastAPI · LangChain · LangGraph · ChromaDB · TypeScript · React · PostgreSQL · MCP · Ollama
 
-- Operational AI Systems
-- Retrieval & RAG Pipelines
-- Agent Workflows
-- Workflow Automation
-- Context-Aware Tooling
-- FastAPI Backend Services
-- MCP-Integrated Systems
+## Connect
 
-## Links
-
-- LinkedIn: https://www.linkedin.com/in/saksham-j-95a206225/
-- GitHub: https://github.com/saksham-jain177
+[LinkedIn](https://www.linkedin.com/in/saksham-j-95a206225/) · [Email](mailto:177sakshamjain@gmail.com)
